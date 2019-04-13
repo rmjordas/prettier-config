@@ -1,0 +1,23 @@
+{
+  "name": "@ruj/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier configuration for JavaScript and TypeScript React projects",
+  "main": "index.json",
+  "keywords": [
+    "Prettier",
+    "configuration",
+    "JavaScript",
+    "TypeScript",
+    "React"
+  ],
+  "homepage": "https://github.com/rmjordas/prettier-config",
+  "bugs": {
+    "url": "https://github.com/rmjordas/prettier-config/issues"
+  },
+  "license": "MIT",
+  "author": "Rodger Jordas <rmjordas@gmail.com> (https://rmjordas.github.io)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmjordas/prettier-config.git"
+  }
+}
