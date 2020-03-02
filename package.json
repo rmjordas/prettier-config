@@ -1,6 +1,7 @@
 {
+  "private": false,
   "name": "@ruj/prettier-config",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Prettier configuration for JavaScript and TypeScript React projects",
   "main": "index.json",
   "keywords": [
